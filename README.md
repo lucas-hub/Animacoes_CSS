@@ -1,2 +1,2 @@
-# Anima-es_CSS
+# Animacoes_CSS
 Algumas animações feitas com CSS e um pouco de JavaScript.
